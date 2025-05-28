@@ -1,5 +1,5 @@
 # 🚀 Alpha Academy
-https://i.pinimg.com/736x/99/bb/1f/99bb1f0ecaf97dcbdb82a6ecab11e556.jpg
+![Alpha Academy Banner](https://i.pinimg.com/736x/99/bb/1f/99bb1f0ecaf97dcbdb82a6ecab11e556.jpg) <!-- You can update this with a real banner -->
 
 **Transforming Education for the Digital Age**
 
