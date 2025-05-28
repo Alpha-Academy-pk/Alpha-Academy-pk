@@ -3,7 +3,7 @@
 **Empowering the next generation of tech talent.**  
 Learn. Build. Launch your career in tech — with Alpha Academy.
 
-![Alpha Academy Banner](https://via.placeholder.com/1200x400.png?text=Alpha+Academy) <!-- You can update this with a real banner -->
+![Alpha Academy Banner](https://i.pinimg.com/736x/99/bb/1f/99bb1f0ecaf97dcbdb82a6ecab11e556.jpg) <!-- You can update this with a real banner -->
 
 ---
 
